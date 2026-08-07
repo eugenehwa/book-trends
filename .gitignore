@@ -1,0 +1,6 @@
+﻿# 공개 저장소에는 index.html만 배포된다 — 작업 중 생긴 파일이 섞이지 않도록 차단
+*
+!index.html
+!.nojekyll
+!.gitignore
+
